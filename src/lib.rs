@@ -1,4 +1,5 @@
-//! Utilities for working with *Inhabited Zero-Sized Types*, or **IZSTs**.
+//! Utilities for working with *Inhabited Zero-Sized Types*,
+//! or, as referred to in this crate, **IZSTs**.
 
 #![no_std]
 
